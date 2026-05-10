@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Newtab",
+  "version": "0.1.0",
+  "description": "A browser new tab customization extension",
+  "permissions": [],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_title": "Newtab"
+  }
+}
